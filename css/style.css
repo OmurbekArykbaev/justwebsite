@@ -29,6 +29,7 @@ nav{
    justify-content: flex-end;
    width: 800px;
     margin: auto;
+    background-color: rgb(209, 209, 209);
 }
 
 
@@ -47,15 +48,14 @@ a{
     color: black;
 
 }
-a:hover{
-    background-color:rgb(209, 209, 209);
-}
+
 
 li{
     margin-right: 3em;
     display: inline-flex;
+    padding: 1em 1em;
 
 }
 li:hover{
-    background-color: khaki;
+    background-color: white;
 }
